@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Niamh (pronounced 'nee-uv' or 'neev', either is fine), (she/her). I've been learning to code for 3 years, starting in 2020. I spent the first year studying Python. Then I pivoted to JavaScript, and in late 2022 I studied how to build responsive websites with CSS. In early 2023 I started to learn React.
+My name is Niamh (pronounced 'nee-uv' or 'neev', either is fine), (she/her). I am a React.js developer and I've been learning to code for 3 years. I am currently learning C#, .NET, Next.js and backend.
 
 I have earned 2 course certificates from Udemy:
 
