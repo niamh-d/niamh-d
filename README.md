@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Niamh (pronounced 'nee-uv' or 'neev', either is fine), (she/her). I am a React.js developer and I've been learning to code for 3 years. Other than Javascript, I'm also competent in Python. I'm currently focusing on learning Next.js, TypeScript, and Node, and am exploring ASP.NET Core, .NET Core, and Java.
+My name is Niamh (pronounced 'nee-uv' or 'neev', either is fine), (she/her). I am a React.js developer and I've been learning to code for 3 years. Other than Javascript, I'm also competent in Python. I'm currently studying full stack web developement with @CodeOp-tech.
 
 I have earned 2 course certificates from Udemy:
 
