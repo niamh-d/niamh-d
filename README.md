@@ -6,7 +6,7 @@ My public socials are linked from [**my homepage**](https://niamhdoyle.dev/).
 
 A sample of projects to date can be found [here](https://niamh-codeop-prep.netlify.app/#section-work).
 
-I have earned 2 course certificates from Udemy:
+I have earned 2 course certificates from Udemy for completing the following courses:
 
 - [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
 - [The Complete JavaScript Course 2023: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
