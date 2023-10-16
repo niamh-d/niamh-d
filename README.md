@@ -13,6 +13,6 @@ I am a former highschool languages teacher. I have a PhD. in Linguistics. I love
 
 I currently work in Anti-Money Laundering compliance for a fintech.
 
-My goal is to get employed as a developer by the end of 2023.
+My goal is to get employed as a developer by summer 2024.
 
 Stack: CSS/Sass, JavaScript, React.
