@@ -1,11 +1,15 @@
 ### Hi there 👋
 
-My name is Niamh (pronounced 'nee-uv' or 'neev', either is fine), (she/her). I am a React.js developer and I've been learning to code for 3 years. Other than Javascript, I'm also competent in Python. I'm currently studying full stack web developement with @CodeOp-tech.
+My name is Niamh (pronounced 'nee-uv' or 'neev', either is fine), (she/her). I am originally from Ireland, but have been living in Estonia for many years. I am a React.js developer and I've been learning to code for 3 years. Other than Javascript, I'm also competent in Python. I'm currently studying full stack web developement with @CodeOp-tech.
+
+My public socials are linked from [**my homepage**](https://niamhdoyle.dev/).
+
+A sample of projects to date can be found [here](https://niamh-codeop-prep.netlify.app/#section-work).
 
 I have earned 2 course certificates from Udemy:
 
-- Build Responsive Real-World Websites with HTML and CSS (https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
-- The Complete JavaScript Course 2023: From Zero to Expert! (https://www.udemy.com/course/the-complete-javascript-course/)
+- [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
+- [The Complete JavaScript Course 2023: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
 
 I like boardgames and tabletop roleplaying games.
 
