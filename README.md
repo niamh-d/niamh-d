@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-My name is Niamh (pronounced 'nee-uv' or 'neev', either is fine), (she/her). I am originally from Ireland, but have been living in Estonia for many years. I am a React.js developer and I've been learning to code for 3 years. Other than Javascript, I'm also competent in Python. I'm currently studying full stack web developement with @CodeOp-tech.
+My name is Niamh (pronounced 'nee-uv'), (she/her). I am originally from Ireland, but have been living in Estonia for many years. I am a React.js developer and I've been learning to code for 3 years. I'm curerently learning Next.js.
 
 My public socials are linked from [**my homepage**](https://niamhdoyle.dev/).
 
-A sample of projects to date can be found [here](https://niamh-codeop-prep.netlify.app/#section-work).
+A sample of projects to date can be found [here](https://niamhdoyle.dev/#section-work).
 
 I have earned 2 course certificates from Udemy for completing the following courses:
 
@@ -15,8 +15,6 @@ I like boardgames and tabletop roleplaying games.
 
 I am a former highschool languages teacher. I have a PhD. in Linguistics. I love languages and speak Irish Gaelic, French, and Estonian conversationally. I also know some basic Swedish, Finnish, Norwegian, German, and Scottish Gaelic.
 
-I currently work in Anti-Money Laundering compliance for a fintech.
+My goal is to get employed as a front end or full stack web developer by summer 2024.
 
-My goal is to get employed as a developer by summer 2024.
-
-Stack: CSS/Sass, JavaScript, React.
+Stack: CSS/Sass, JavaScript, React.js, Next.js.
