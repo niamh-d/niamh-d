@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Niamh (pronounced 'nee-uv'), (she/her). I am originally from Ireland, but have been living in Estonia for many years. I am a React.js developer and I've been learning to code for 3 years. I'm curerently learning Next.js.
+My name is Niamh (pronounced 'nee-uv'), (she/her). I am originally from Ireland, but have been living in Estonia for many years. I am a React.js developer and I'm curerently learning Next.js and Node.js.
 
 My public socials are linked from [**my homepage**](https://niamhdoyle.dev/).
 
