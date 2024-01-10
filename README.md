@@ -17,4 +17,4 @@ I am a former highschool languages teacher. I have a PhD. in Linguistics. I love
 
 My goal is to get employed as a front end or full stack web developer in spring 2024.
 
-Stack: CSS/Sass, JavaScript, React.js, Next.js.
+Stack: React.js, Next.js, Tailwind CSS
