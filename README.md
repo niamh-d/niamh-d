@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Niamh (pronounced 'nee-uv'), (she/her). I am originally from Ireland, but have been living in Estonia for many years. I am a React.js front-end developer who is learning backend, Next.js, and TypeScript. I am also interested in data analytics and am learning SQL, NoSQL and data analysis with Python.
+My name is Niamh (pronounced 'nee-uv'), (she/her). I am originally from Ireland, but have been living in Estonia for many years. I am a React.js front-end developer who is learning backend, Next.js, TypeScript, PHP and Laravel. I am also interested in data analytics and am learning SQL, NoSQL and data analysis with Python.
 
 My public socials are linked from [**my homepage**](https://niamhdoyle.dev/). (I am working on a new version – watch this space!)
 
