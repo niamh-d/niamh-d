@@ -4,7 +4,7 @@ My name is Niamh (pronounced 'nee-uv'), (she/her). I am originally from Ireland,
 
 My public socials are linked from [**my homepage**](https://niamhdoyle.dev/). (I am working on a new version – watch this space!)
 
-A sample of projects to date can be found [here](https://niamhdoyle.dev/#section-work). My favourites are:
+My projects include:
 
 - [KØdo](https://github.com/niamh-d/refactored-pancake): A WIP full stack web application to assist parents in homelife management. Uses React, React Router, Tailwind CSS, Daisy UI and Material Icons in the frontend and Express and MySQL in backend.
 - [T3 Gallery](https://github.com/niamh-d/t3-gallery): A full stack image gallery web app built with Next.js, TypeScript and Vercel Postgres. Deployed online [**here**](https://t3-gallery-zeta.vercel.app/).
