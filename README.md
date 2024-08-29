@@ -1,19 +1,10 @@
 ### Hi there 👋
 
-My name is Niamh (pronounced 'nee-uv'), (she/her). I am originally from Ireland, but have been living in Estonia for many years. I am a React.js front-end developer who is learning backend, Next.js, TypeScript, PHP and Laravel. I am also interested in data analytics and am learning SQL, NoSQL and data analysis with Python.
+My name is Niamh (pronounced 'nee-uv'), (she/her). I am originally from Ireland 🇮🇪, but have been living in Estonia 🇪🇪 for many years. I am a full-stack web developer 👩‍💻 with knowledge of Next.js, React.js, JavaScript, TypeScript, TailwindCss, SQL. I am currently studying software QA automation and unit testing 🕵️‍♀️ using Playwright, React Testing Library, Jest, Vitest, Selenium and Java.
 
 My public socials are linked from [**my homepage**](https://niamhdoyle.dev/). My project portfolio is [**here**](https://niamhdoyle.dev/projects).
 
-My projects include:
-
-- [KØdo](https://github.com/niamh-d/refactored-pancake): A WIP full stack web application to assist parents in homelife management. Uses React, React Router, Tailwind CSS, Daisy UI and Material Icons in the frontend and Express and MySQL in backend.
-- [T3 Gallery](https://github.com/niamh-d/t3-gallery): A full stack image gallery web app built with Next.js, TypeScript and Vercel Postgres. Deployed online [**here**](https://t3-gallery-zeta.vercel.app/).
-
-I recently graduated the [Full Stack Web Development Bootcamp](https://codeop.tech/coding-bootcamp/) at [CodeOp.tech](https://codeop.tech/), where we built both front-end projects with Vue.js and React.js and full stack projects with React.js, Express and MySQL.
-
-I have experience using TypeScript, Jest.js, Prisma, Drizzle, Vercel, Next.js, Python and other technologies.
-
-I am currently enrolled in the [Associate Data Analyst in SQL career track](https://www.datacamp.com/tracks/associate-data-analyst-in-sql) with [DataCamp](https://www.datacamp.com/).
+Earlier this year (2024) I completed the [Full Stack Web Development Bootcamp](https://codeop.tech/coding-bootcamp/) at [CodeOp.tech](https://codeop.tech/), where we built both front-end projects with Vue.js and React.js and full stack projects with Express.js and MySQL, and I have recently also completed the [Associate Data Analyst in SQL career track](https://www.datacamp.com/tracks/associate-data-analyst-in-sql) with DataCamp.
 
 I have also earned 2 course certificates from Udemy for completing the following courses:
 
@@ -22,6 +13,6 @@ I have also earned 2 course certificates from Udemy for completing the following
 
 I like boardgames and tabletop roleplaying games.
 
-I am a former highschool languages teacher. I have a PhD. in Linguistics. I love languages and speak Irish Gaelic, French, and Estonian conversationally. I also know some basic German and Finnish. Presently I am focused on improving my Estonian and German.
+I am a former highschool languages teacher 👩‍🏫 and anti-money laundering 💸 compliance professional. I have a PhD. in Linguistics, M.Phil in Applied Applied Linguistics 🗣️ and a B. in Commerce with Economics and French 🇫🇷. I love languages and speak Irish Gaelic, French, and Estonian conversationally. I am actively styudying German 🇩🇪 and I have some basic Finnish 🇫🇮.
 
-Stack: React.js, Next.js, JavaScript, TypeScript, Tailwind CSS
+Stack: Next.js, React.js, JavaScript, TypeScript, Tailwind CSS
