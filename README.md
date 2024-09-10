@@ -6,10 +6,11 @@ My public socials are linked from [**my homepage**](https://niamhdoyle.dev/). My
 
 Earlier this year (2024) I completed the [Full Stack Web Development Bootcamp](https://codeop.tech/coding-bootcamp/) at [CodeOp.tech](https://codeop.tech/), where we built both front-end projects with Vue.js and React.js and full stack projects with Express.js and MySQL, and I have recently also completed the [Associate Data Analyst in SQL career track](https://www.datacamp.com/tracks/associate-data-analyst-in-sql) with DataCamp.
 
-I have also earned 2 course certificates from Udemy for completing the following courses:
+I have also earned 3 course certificates from Udemy for completing the following courses:
 
-- [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
+- [JavaScript Unit Testing](https://www.udemy.com/course/javascript-unit-testing-the-practical-guide)
 - [The Complete JavaScript Course 2023: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
+- [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
 
 I like boardgames and tabletop roleplaying games.
 
