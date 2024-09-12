@@ -117,4 +117,6 @@
 
 👩‍🎓 I have a PhD. in Linguistics (research area: multilingualism and language policy) 🗣️, M.Phil in Applied Linguistics and a B. in Commerce with Economics 💸 and French 🇫🇷.
 
-I love languages and speak Irish Gaelic 🇮🇪, French 🇫🇷, and Estonian 🇪🇪 conversationally. I am actively styudying German 🇩🇪 and I have some basic Finnish 🇫🇮.
+🗣️ I love languages and speak Irish Gaelic 🇮🇪, French 🇫🇷, and Estonian 🇪🇪 conversationally.
+
+🗣️ I am actively learning German 🇩🇪 and I have some basic Finnish 🇫🇮.
