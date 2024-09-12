@@ -10,7 +10,7 @@
 
 👷‍♀️ 🎨 My project portfolio is [**here**](https://niamhdoyle.dev/projects).
 
-💼 I am currently looking for work as a **web developer** or **software QA engineer/ tester**.
+💼 I am currently looking for work as a **web developer** or **software QA engineer/ tester**. My CV is [**here**](https://drive.google.com/file/d/17_s-YbB9e9u17P7QWz5EEePzpQSgAvn0/view).
 
 <p>🤩 I am very comfortable with the following technologies and tools:</p>
 
