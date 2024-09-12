@@ -4,7 +4,13 @@
 
 📍 I am originally from Ireland 🇮🇪, but have been living in Estonia 🇪🇪 for many years.
 
-👩‍💻 I am a full-stack web developer with knowledge of: 
+👩‍💻 I am a full-stack and front-end web developer with a particular interest in backend web development and software testing/ QA.
+
+🌐 My public socials are linked from [**my homepage**](https://niamhdoyle.dev/).
+
+👷‍♀️ 🎨 My project portfolio is [**here**](https://niamhdoyle.dev/projects).
+
+🤩 I am very comfortable with the following technologies and tools:
 
 <div>
 	<table>
@@ -43,10 +49,39 @@
 	</table>
 </div>
 
+👍 I am also familiar with:
 
-🌐 My public socials are linked from [**my homepage**](https://niamhdoyle.dev/).
-
-👷‍♀️ 🎨 My project portfolio is [**here**](https://niamhdoyle.dev/projects).
+<div>
+	<table>
+		<tr>
+	<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code></td>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code></td>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/></code></td>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png" alt="Vue.js" title="Vue.js"/></code></td>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/></code></td>
+			  </tr>
+    <tr>
+      <td>Python</td>
+            <td>Node.js</td>
+            <td>Express</td>
+            <td>Vue.js</td>
+            <td>PostgreSQL</td>
+    </tr>
+		<tr>
+<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code></td>
+			<td><code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17" alt="SQLite" title="SQLite"/></code></td>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" alt="Selenium" title="Selenium"/></code></td>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code></td>
+			<td><code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/37cb517e-d059-4cc0-8124-1a72b663167c" alt="Playwright" title="Playwright"/></code></td>
+		</tr>
+            <td>MySQL</td>
+            <td>SQLite</td>
+            <td>Selenium</td>
+            <td>Java</td>
+	<td>Playwright</td>
+    </tr>
+	</table>
+</div>
 
 🧪 ⚙️ I am currently studying software QA automation and unit testing using Playwright, React Testing Library, Jest, Vitest, Selenium and Java.
 
