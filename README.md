@@ -1,4 +1,4 @@
-### Hi there 👋 Salut! Tere! Moi! Moin!
+### Hi there 👋 Salut! Tere! Moi! Moin! Haigh!
 
 🙋‍♀️ My name is Niamh (pronounced 'nee-uv').
 
