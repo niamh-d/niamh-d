@@ -55,7 +55,7 @@
 	</table>
 </div>
 
-<p>👍 I am also familiar with:</p>
+<p>I also have some experience with the following technologies:</p>
 
 <div>
 	<table>
