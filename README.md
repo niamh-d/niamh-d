@@ -51,7 +51,7 @@
 	</table>
 </div>
 
-<p>I am learning:</p>
+<p>👩‍🎓 I am learning:</p>
 
 <div>
 	<table>
@@ -73,7 +73,7 @@
 	</table>
 </div>
 
-<p>I have experience working with the following:</p>
+<p>👷‍♀️ I have experience working with the following:</p>
 
 <div>
 	<table>
