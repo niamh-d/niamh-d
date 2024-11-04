@@ -4,7 +4,7 @@
 
 📍 I am originally from Ireland 🇮🇪, but have been living in Estonia 🇪🇪 for many years.
 
-👩‍💻 I am a full-stack and front-end web developer with a particular interest in backend web development and software testing/ QA.
+👩‍💻 I am a full-stack web developer and QA automation engineer.
 
 🌐 My public socials are linked from [**my homepage**](https://niamhdoyle.dev/).
 
