@@ -8,7 +8,7 @@
 
 🌐 My public socials are linked from [**my homepage**](https://niamhdoyle.dev/).
 
-👷‍♀️ 🎨 My project portfolio is [**here**](https://niamhdoyle.dev/projects).
+👷‍♀️ 🎨 My project portfolio is [**here**](https://niamhdoyle.dev/projects). My current personal project is a [health and wellbeing app](https://github.com/niamh-d/my-health).
 
 💼 I am currently looking for work as a **web developer** or **software QA engineer/ tester**. My CV is [**here**](https://drive.google.com/file/d/17_s-YbB9e9u17P7QWz5EEePzpQSgAvn0/view).
 
