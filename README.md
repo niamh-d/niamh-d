@@ -10,7 +10,7 @@
 
 👷‍♀️ 🎨 My project portfolio is [**here**](https://niamhdoyle.dev/projects). My current personal project is a [health and wellbeing app](https://github.com/niamh-d/my-health).
 
-🔧 I am presenting volunteering by testing at [EuFMD](https://eufmd.info)
+🔧 I am presenting volunteering by testing at [EuFMD](https://eufmd.info).
 
 💼 I am currently looking for work as a **devloper**, **SDET** or **QA automation engineer**. My CV is [**here**](https://drive.google.com/file/d/17_s-YbB9e9u17P7QWz5EEePzpQSgAvn0/view).
 
