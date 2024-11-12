@@ -1,4 +1,6 @@
-### Hi there 👋 Salut! Tere! Moi! Moin! Haigh!
+# Hi there 👋 Salut! Tere! Moi! Moin! Haigh!
+
+## Highlights
 
 🙋‍♀️ My name is Niamh (pronounced 'nee-uv').
 
@@ -16,10 +18,10 @@
 
 👷‍♀️ 🎨 My project portfolio is [**here**](https://niamhdoyle.dev/projects). My current personal project is a [health and wellbeing app](https://github.com/niamh-d/my-health).
 
-🧪 ⚙️ I am currently studying software QA automation and unit testing using Playwright, React Testing Library, Selenium and Java.
 
+## Skills
 
-<p>🤩 I am very comfortable with the following technologies and tools:</p>
+🤩 I am very comfortable with the following technologies and tools:
 
 <div>
 	<table>
@@ -118,6 +120,12 @@
 	</table>
 </div>
 
+## Education and Training
+
+🧪 ⚙️ I am currently studying software QA automation and unit testing using Playwright, React Testing Library, Selenium and Java.
+
+👩‍🎓 I have a PhD. in Linguistics (research area: multilingualism and language policy) 🗣️, M.Phil in Applied Linguistics and a B. in Commerce with Economics 💸 and French 🇫🇷. I also have an international diploma in anti-money laundering 💰🧺.
+
 👩‍💻 Earlier this year (2024), I completed the [Full Stack Web Development Bootcamp](https://codeop.tech/coding-bootcamp/) at [CodeOp.tech](https://codeop.tech/), where we built both front-end projects with Vue.js and React.js and full stack projects with Express.js and MySQL.
 
 🕵️‍♀️ I have recently also completed the [Associate Data Analyst in SQL career track](https://www.datacamp.com/tracks/associate-data-analyst-in-sql) with DataCamp.
@@ -128,9 +136,9 @@
 - [The Complete JavaScript Course 2023: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
 - [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
 
-🎲 I like boardgames and tabletop roleplaying games.
+## Hobbies and languages
 
-👩‍🎓 I have a PhD. in Linguistics (research area: multilingualism and language policy) 🗣️, M.Phil in Applied Linguistics and a B. in Commerce with Economics 💸 and French 🇫🇷.
+🎲 I like boardgames and tabletop roleplaying games, 📚 books, 🎬 films and 🌳 nice walks in nature.
 
 🗣️ I love languages and speak Irish Gaelic 🇮🇪, French 🇫🇷, and Estonian 🇪🇪 conversationally.
 
