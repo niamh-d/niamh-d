@@ -2,15 +2,20 @@
 
 🙋‍♀️ My name is Niamh (pronounced 'nee-uv').
 
-📍 I am originally from Ireland 🇮🇪, but have been living in Estonia 🇪🇪 for many years.
+📍 I am originally from Ireland 🇮🇪 but have been living in Estonia 🇪🇪 for many years.
 
-👩‍💻 I am a full-stack web developer and QA automation engineer.
+👩‍💻 I am a full-stack web developer and QA automation engineer in training.
 
 🌐 My public socials are linked from [**my homepage**](https://niamhdoyle.dev/).
 
 👷‍♀️ 🎨 My project portfolio is [**here**](https://niamhdoyle.dev/projects). My current personal project is a [health and wellbeing app](https://github.com/niamh-d/my-health).
 
-💼 I am currently looking for work as a **web developer** or **software QA engineer/ tester**. My CV is [**here**](https://drive.google.com/file/d/17_s-YbB9e9u17P7QWz5EEePzpQSgAvn0/view).
+🔧 I am presenting volunteering by testing at [EuFMD](https://eufmd.info)
+
+💼 I am currently looking for work as a **devloper**, **SDET** or **QA automation engineer**. My CV is [**here**](https://drive.google.com/file/d/17_s-YbB9e9u17P7QWz5EEePzpQSgAvn0/view).
+
+🧪 ⚙️ I am currently studying software QA automation and unit testing using Playwright, React Testing Library, Selenium and Java.
+
 
 <p>🤩 I am very comfortable with the following technologies and tools:</p>
 
@@ -112,8 +117,6 @@
     </tr>
 	</table>
 </div>
-
-🧪 ⚙️ I am currently studying software QA automation and unit testing using Playwright, React Testing Library, Jest, Vitest, Selenium and Java.
 
 👩‍💻 Earlier this year (2024), I completed the [Full Stack Web Development Bootcamp](https://codeop.tech/coding-bootcamp/) at [CodeOp.tech](https://codeop.tech/), where we built both front-end projects with Vue.js and React.js and full stack projects with Express.js and MySQL.
 
