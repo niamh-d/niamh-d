@@ -2,9 +2,11 @@
 
 🙋‍♀️ My name is Niamh (pronounced 'nee-uv').
 
-📍 I am originally from Ireland 🇮🇪 but have been living in Estonia 🇪🇪 for many years.
-
 👩‍💻 I am a full-stack web developer and QA automation engineer in training.
+
+👩‍🏫 I am a former highschool languages teacher and 💸 anti-money laundering compliance professional.
+
+📍 I am originally from Ireland 🇮🇪 but have been living in Estonia 🇪🇪 for many years.
 
 🌐 My public socials are linked from [**my homepage**](https://niamhdoyle.dev/).
 
@@ -127,8 +129,6 @@
 - [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
 
 🎲 I like boardgames and tabletop roleplaying games.
-
-👩‍🏫 I am a former highschool languages teacher and 💸 anti-money laundering compliance professional.
 
 👩‍🎓 I have a PhD. in Linguistics (research area: multilingualism and language policy) 🗣️, M.Phil in Applied Linguistics and a B. in Commerce with Economics 💸 and French 🇫🇷.
 
