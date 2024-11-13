@@ -1,7 +1,5 @@
 # Hi there 👋 Salut! Tere! Moi! Moin! Haigh!
 
-## Highlights
-
 🙋‍♀️ My name is Niamh (pronounced 'nee-uv').
 
 👩‍💻 I am a full-stack web developer and QA automation engineer in training.
