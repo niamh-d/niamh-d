@@ -6,7 +6,7 @@
 
 🎮 I am also teaching myself the game engines GDevelop and Godot and how to make pixel art 🎨 so I can begin work on a 2D pixel art game in the very near future.
 
-🔧 I am presenting volunteering by testing at [EuFMD](https://eufmd.info).
+🔧 I am presently volunteering by testing at [EuFMD](https://eufmd.info).
 
 💼 I am currently looking for work as a **devloper**, **SDET** or **QA automation engineer**. My CV is [**here**](https://drive.google.com/file/d/17_s-YbB9e9u17P7QWz5EEePzpQSgAvn0/view). Connect with me on [LinkedIn](https://www.linkedin.com/in/niamh-carolin-doyle/).
 
