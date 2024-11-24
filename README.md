@@ -4,7 +4,7 @@
 
 👩‍💻 I am a full-stack web developer and QA automation engineer in training.
 
-🎮 I am also teaching myself the game engines GDevelop and Godot and how to make pixel art 🎨 so I can begin work on a 2D pixel art game in the very near future.
+🎮 I am also teaching myself Godot 4 and C# so I can indie game dev as a hobby.
 
 🔧 I am presently volunteering by testing at [EuFMD](https://eufmd.info).
 
