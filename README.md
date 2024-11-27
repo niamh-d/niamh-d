@@ -132,7 +132,7 @@
 
 👩‍💻 Earlier this year (2024), I completed the [Full Stack Web Development Bootcamp](https://codeop.tech/coding-bootcamp/) at [CodeOp.tech](https://codeop.tech/), where we built both front-end projects with Vue.js and React.js and full stack projects with Express.js and MySQL.
 
-🕵️‍♀️ I have recently also completed the [Associate Data Analyst in SQL career track](https://www.datacamp.com/tracks/associate-data-analyst-in-sql) with DataCamp.
+🕵️‍♀️ I also this yearcompleted the [Associate Data Analyst in SQL career track](https://www.datacamp.com/tracks/associate-data-analyst-in-sql) with DataCamp.
 
 👩‍🎓 I have also earned 3 course certificates from Udemy for completing the following courses:
 
@@ -146,4 +146,4 @@
 
 🗣️ I love languages and speak Irish Gaelic 🇮🇪, French 🇫🇷, and Estonian 🇪🇪 conversationally.
 
-🗣️ I am actively learning German 🇩🇪 and I have some basic Finnish 🇫🇮.
+👩‍🎓 I am actively learning German 🇩🇪 and I have some basic Finnish 🇫🇮.
