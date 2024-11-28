@@ -75,6 +75,7 @@
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code></td>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/193427942-3abc320a-1c9e-4316-bac0-cb8b280b669f.png" alt="Godot" title="Godot"/></code></td>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/></code></td>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt="DOTNET" title="DOTNET"/></code></td>
 		</tr>
 		            <td>Kotlin</td>
 			<td>Playwright</td>
@@ -82,6 +83,7 @@
             <td>Java</td>
 		          <td>Godot</td>
 		<td>C#</td>
+			<td>.NET</td>
     </tr>
 	</table>
 </div>
