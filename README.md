@@ -6,7 +6,7 @@
 
 🎮 I am also teaching myself 2D game development with C# and the game engine Godot 4.
 
-🔧 I am presently volunteering by testing at [FAO/EuFMD](https://eufmd.info).
+🔧 I am presently a project collaborator with [FAO/EuFMD](https://eufmd.info), where I provide manual and automated QA.
 
 💼 I am currently looking for work as a **developer**, **SDET** or **QA automation engineer**. My CV is [**here**](https://drive.google.com/file/d/17_s-YbB9e9u17P7QWz5EEePzpQSgAvn0/view). Connect with me on [LinkedIn](https://www.linkedin.com/in/niamh-carolin-doyle/).
 
