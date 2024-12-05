@@ -4,7 +4,7 @@
 
 👩‍💻 I am a full-stack web developer and QA automation engineer in training.
 
-🎮 I am also teaching myself C# and the game engine Godot 4 so I can get into indie game dev as a hobby.
+🎮 I am also teaching myself 2D game development with C# and the game engine Godot 4.
 
 🔧 I am presently volunteering by testing at [EuFMD](https://eufmd.info).
 
