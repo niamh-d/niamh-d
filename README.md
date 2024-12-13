@@ -2,7 +2,7 @@
 
 🙋‍♀️ My name is Niamh (pronounced 'nee-uv').
 
-👩‍💻 I am a full-stack web developer and QA automation engineer in training.
+👩‍💻 I am a QA automation engineer and full-stack web developer.
 
 🎮 I am also teaching myself 2D game development with C# and the game engine Godot 4.
 
