@@ -130,7 +130,7 @@
 
 ## Education and Training
 
-🧪 ⚙️ I am currently studying software QA automation and unit testing using Playwright, React Testing Library, Selenium and Java.
+🧪 ⚙️ I recently graduated a course on QA automation with Jest and Playwright, were we learned about unit testing, API testing, UI testing, continuous integration and more.
 
 👩‍🎓 I have a PhD. in Linguistics (research area: multilingualism and language policy) 🗣️, M.Phil in Applied Linguistics and a B. in Commerce with Economics 💸 and French 🇫🇷. I also have an international diploma in anti-money laundering 💰🧺.
 
