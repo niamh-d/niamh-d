@@ -2,13 +2,13 @@
 
 🙋‍♀️ My name is Niamh (pronounced 'nee-uv').
 
-👩‍💻 I am a QA automation engineer and full-stack web developer.
+👩‍💻 I am a full-stack web developer and QA automation engineer.
 
 🎮 I am also teaching myself 2D game development with C# and the game engine Godot 4.
 
-🔧 I am presently a project collaborator with [FAO/EuFMD](https://www.fao.org/eufmd/en/), where I implement and execute automated QA and continuous integration.
+🔧 I am presently a QA automation engineer and web developer with [FAO/EuFMD](https://www.fao.org/eufmd/en/), where I test, develop, mentor and train.
 
-💼 I am currently looking for work as a **developer**, **SDET** or **QA automation engineer**. My CV is [**here**](https://drive.google.com/file/d/17_s-YbB9e9u17P7QWz5EEePzpQSgAvn0/view). Connect with me on [LinkedIn](https://www.linkedin.com/in/niamh-carolin-doyle/).
+💼 I am currently looking for work as a **web developer**, **SDET** or **QA automation engineer**. My CV is [**here**](https://drive.google.com/file/d/17_s-YbB9e9u17P7QWz5EEePzpQSgAvn0/view). Connect with me on [LinkedIn](https://www.linkedin.com/in/niamh-carolin-doyle/).
 
 👩‍🏫 I am a former highschool languages teacher and 💸 anti-money laundering compliance professional.
 
