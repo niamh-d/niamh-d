@@ -4,7 +4,7 @@
 
 👩‍💻 I am a full-stack web developer and QA automation engineer.
 
-🎮 I am also teaching myself 2D game development with C# and the game engine Godot 4.
+🎮 For fun I develop 2D games with C# and the game engine Godot 4.
 
 🔧 I am presently a QA automation engineer and web developer with [FAO/EuFMD](https://www.fao.org/eufmd/en/), where I test, develop, mentor and train.
 
