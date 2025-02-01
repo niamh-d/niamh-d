@@ -117,7 +117,7 @@
 
 🕵️‍♀️ I also this year completed the [Associate Data Analyst in SQL career track](https://www.datacamp.com/tracks/associate-data-analyst-in-sql) with DataCamp.
 
-👩‍🎓 I have also earned 3 course certificates from Udemy for completing the following courses:
+👩‍🎓 I have also earned certificates from Udemy for completing the following courses:
 
 - [Learn 2D Game Development: Godot 4.3+ & C# from Scratch](https://www.udemy.com/course/learn-2d-game-development-godot-43-c-from-scratch/)
 - [JavaScript Unit Testing](https://www.udemy.com/course/javascript-unit-testing-the-practical-guide)
