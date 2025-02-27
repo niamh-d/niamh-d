@@ -2,8 +2,6 @@
 
 🙋‍♀️ My name is Niamh (pronounced 'nee-uv').
 
-🔧 I am presently a web developer with [FAO/EuFMD](https://www.fao.org/eufmd/en/), where I execute automated testing and develop.
-
 💼 I am currently looking for work as a **web developer**, **SDET** or **QA automation engineer**. My CV is [**here**](https://drive.google.com/file/d/17_s-YbB9e9u17P7QWz5EEePzpQSgAvn0/view). Connect with me on [LinkedIn](https://www.linkedin.com/in/niamh-carolin-doyle/).
 
 👷‍♀️ 🎨 My project portfolio is [**here**](https://niamhdoyle.dev/projects).
