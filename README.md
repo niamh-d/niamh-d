@@ -2,7 +2,7 @@
 
 🙋‍♀️ My name is Niamh (pronounced 'nee-uv').
 
-💼 I am currently looking for work as a **web developer**, **SDET** or **QA automation engineer**. My CV is [**here**](https://drive.google.com/file/d/17_s-YbB9e9u17P7QWz5EEePzpQSgAvn0/view). Connect with me on [LinkedIn](https://www.linkedin.com/in/niamh-carolin-doyle/).
+💼 I am currently looking for work as a **SWE**, **web dev**, **SDET** or **QA automation engineer**. My CV is [**here**](https://drive.google.com/file/d/17_s-YbB9e9u17P7QWz5EEePzpQSgAvn0/view). Connect with me on [LinkedIn](https://www.linkedin.com/in/niamh-carolin-doyle/).
 
 👷‍♀️ 🎨 My project portfolio is [**here**](https://niamhdoyle.dev/projects).
 
@@ -12,7 +12,7 @@
 
 🌐 My public socials are linked from [**my homepage**](https://niamhdoyle.dev/).
 
-🎮 For fun I develop 2D games with C# and the game engine Godot 4.
+🎮 For fun I develop 2D and 3D games with C# and the game engine Godot 4.
 
 ## Skills
 
@@ -65,14 +65,13 @@
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code></td>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/></code></td>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt="DOTNET" title="DOTNET"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" alt="Angular" title="Angular"/></code></td>
+			</td>
 		</tr>
 		   <td>Spring Boot</td>
 		            <td>Kotlin</td>
             <td>Java</td>
 		<td>C#</td>
 			<td>.NET</td>
-		<td>Angular</td>
     </tr>
 	</table>
 </div>
@@ -109,11 +108,11 @@
 
 ## Education and Training
 
-🧪 ⚙️ I recently graduated a course on QA automation with Jest and Playwright, were we learned about unit testing, API testing, UI testing, continuous integration and more.
+🧪 ⚙️ In January this year, I graduated from a course on QA automation with Jest and Playwright, were we learned about unit testing, API testing, UI testing, continuous integration and more.
 
-👩‍💻 In 2024, I completed the [Full Stack Web Development Bootcamp](https://codeop.tech/coding-bootcamp/) at [CodeOp.tech](https://codeop.tech/), where we built both front-end projects with Vue.js and React.js and full stack projects with Express.js and MySQL.
+👩‍💻 In summer 2024, I completed the [Full Stack Web Development Bootcamp](https://codeop.tech/coding-bootcamp/) at [CodeOp.tech](https://codeop.tech/), where we built both front-end projects with Vue.js and React.js and full stack projects with Express.js and MySQL.
 
-🕵️‍♀️ I also this year completed the [Associate Data Analyst in SQL career track](https://www.datacamp.com/tracks/associate-data-analyst-in-sql) with DataCamp.
+🕵️‍♀️ In 2024, I also completed the [Associate Data Analyst in SQL career track](https://www.datacamp.com/tracks/associate-data-analyst-in-sql) with DataCamp.
 
 👩‍🎓 I have also earned certificates from Udemy for completing the following courses:
 
