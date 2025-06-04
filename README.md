@@ -116,6 +116,7 @@
 
 👩‍🎓 I have also earned certificates from Udemy for completing the following courses:
 
+- [Learn how to create 3D games from start to finish in Godot engine 4 and GDScript!](https://www.udemy.com/course/complete-godot-3d)
 - [Learn 2D Game Development: Godot 4.3+ & C# from Scratch](https://www.udemy.com/course/learn-2d-game-development-godot-43-c-from-scratch/)
 - [JavaScript Unit Testing](https://www.udemy.com/course/javascript-unit-testing-the-practical-guide)
 - [The Complete JavaScript Course 2023: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
