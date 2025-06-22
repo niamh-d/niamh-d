@@ -28,6 +28,8 @@
 
 ## Education and Training
 
+🎮 Currently I am learning about game development with C#, Unity, and Blender.
+
 🧪 ⚙️ In January this year, I graduated from a course on QA automation with Jest and Playwright, were we learned about unit testing, API testing, UI testing, continuous integration and more.
 
 👩‍💻 In summer 2024, I completed the [Full Stack Web Development Bootcamp](https://codeop.tech/coding-bootcamp/) at [CodeOp.tech](https://codeop.tech/), where we built both front-end projects with Vue.js and React.js and full stack projects with Express.js and MySQL.
