@@ -20,15 +20,21 @@
 
 I am very comfortable with the following technologies and tools:
 
-[![Skills](https://skillicons.dev/icons?i=javascript,typescript,react,tailwind,jest,godot&theme=light)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=javascript,typescript,react&theme=light)](https://skillicons.dev) JavaScript/TypeScript and React
 
-JavaScript/TypeScript | React | TailwindCSS | Jest | Godot
+[![Skills](https://skillicons.dev/icons?i=tailwind&theme=light)](https://skillicons.dev) TailwindCSS
 
-## Education and Training
+[![Skills](https://skillicons.dev/icons?i=jest,postman&theme=light)](https://skillicons.dev) Jest and Postmann (for testing)
 
-🎮 Currently I am learning about game development with C#, Unity, and Blender.
+[![Skills](https://skillicons.dev/icons?i=godot&theme=light)](https://skillicons.dev) Godot (for game dev)
+
+## Learning
+
+Currently I am learning about game development with C#, Unity, and Blender.
 
 [![Learning](https://skillicons.dev/icons?i=cs,unity,blender&theme=light)](https://skillicons.dev)
+
+## Education and Training
 
 🧪 ⚙️ In January this year, I graduated from a course on QA automation with Jest and Playwright, were we learned about unit testing, API testing, UI testing, continuous integration and more.
 
