@@ -4,7 +4,7 @@
 
 💼 I am currently looking for work as a **software engineer**, **web developer**, or **technical project manager**. My CV is [**here**](https://drive.google.com/file/d/17_s-YbB9e9u17P7QWz5EEePzpQSgAvn0/view). Connect with me on [LinkedIn](https://www.linkedin.com/in/niamh-carolin-doyle/).
 
-👩‍💻 My software development experience includes full-stack dev and QA automation.
+👩‍💻 My software development experience includes full-stack web dev and QA automation.
 
 👷‍♀️ 🎨 My project portfolio is [**here**](https://niamhdoyle.dev/projects).
 
@@ -14,7 +14,7 @@
 
 🌐 My public socials are linked from [**my homepage**](https://niamhdoyle.dev/).
 
-🎮 For fun I like to learn about game design adn development, and I develop games with C#, GD Script and the game engines Godot and Unity.
+🎮 For fun I like to learn about game design and development, and I develop games with C#, GD Script and the game engines Godot and Unity.
 
 ## Skills
 
