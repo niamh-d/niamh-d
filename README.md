@@ -22,6 +22,8 @@ I am very comfortable with the following technologies and tools:
 
 [![Skills](https://skillicons.dev/icons?i=javascript,typescript,react,tailwind,jest,godot&theme=light)](https://skillicons.dev)
 
+JavaScript/TypeScript | React | TailwindCSS | Jest | Godot
+
 ## Education and Training
 
 🎮 Currently I am learning about game development with C#, Unity, and Blender.
