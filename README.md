@@ -20,13 +20,19 @@
 
 I am very comfortable with the following technologies and tools:
 
-[![Skills](https://skillicons.dev/icons?i=javascript,typescript,react&theme=light)](https://skillicons.dev) JavaScript/TypeScript and React
+### Web dev
 
-[![Skills](https://skillicons.dev/icons?i=tailwind&theme=light)](https://skillicons.dev) TailwindCSS
+[![Skills](https://skillicons.dev/icons?i=javascript,typescript,react&theme=light)](https://skillicons.dev)
 
-[![Skills](https://skillicons.dev/icons?i=jest,postman&theme=light)](https://skillicons.dev) Jest and Postmann (for testing)
+[![Skills](https://skillicons.dev/icons?i=tailwind&theme=light)](https://skillicons.dev)
 
-[![Skills](https://skillicons.dev/icons?i=godot&theme=light)](https://skillicons.dev) Godot (for game dev)
+### Testing
+
+[![Skills](https://skillicons.dev/icons?i=jest,postman&theme=light)](https://skillicons.dev)
+
+### Game dev
+
+[![Skills](https://skillicons.dev/icons?i=godot&theme=light)](https://skillicons.dev)
 
 ## Learning
 
