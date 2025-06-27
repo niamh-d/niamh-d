@@ -22,9 +22,7 @@ I am very comfortable with the following technologies and tools:
 
 ### Web dev
 
-[![Skills](https://skillicons.dev/icons?i=javascript,typescript,react&theme=light)](https://skillicons.dev)
-
-[![Skills](https://skillicons.dev/icons?i=tailwind&theme=light)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=javascript,typescript,react,tailwind&theme=light)](https://skillicons.dev)
 
 ### Testing
 
