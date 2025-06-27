@@ -14,7 +14,7 @@
 
 🌐 My public socials are linked from [**my homepage**](https://niamhdoyle.dev/).
 
-🎮 For fun I like to learn about game design and development, and I develop games with C#, GD Script, Blender, and the game engines Godot and Unity.
+🎮 I am learning to design and develop video games using Godot, C#, Unity, and Blender.
 
 ## Skills
 
