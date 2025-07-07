@@ -38,6 +38,10 @@ Currently I am learning about game development with C#, Unity, and Blender.
 
 [![Learning](https://skillicons.dev/icons?i=cs,unity,blender&theme=light)](https://skillicons.dev)
 
+As well as Android developmnent with Android Studio. Java, and Kotlin.
+
+[![Learning](https://skillicons.dev/icons?i=androidstudio,java,kotlin&theme=light)](https://skillicons.dev)
+
 ## Education and Training
 
 🧪 ⚙️ In January this year, I graduated from a course on QA automation with Jest and Playwright, were we learned about unit testing, API testing, UI testing, continuous integration and more.
