@@ -38,7 +38,7 @@ Currently I am learning about game development with C#, Unity, and Blender.
 
 [![Learning](https://skillicons.dev/icons?i=cs,unity,blender&theme=light)](https://skillicons.dev)
 
-As well as Android development with Android Studio. Java, and Kotlin.
+As well as Android development with Android Studio, Java, and Kotlin.
 
 [![Learning](https://skillicons.dev/icons?i=androidstudio,java,kotlin&theme=light)](https://skillicons.dev)
 
