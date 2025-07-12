@@ -1,4 +1,4 @@
-# Hi there 👋 Salut! Tere! Moi! Moin! Haigh!
+# Hi there 👋 Salut! Tere! Moi!
 
 🙋‍♀️ My name is Niamh (pronounced 'nee-uv').
 
@@ -6,15 +6,11 @@
 
 👩‍💻 My software development experience includes full-stack web dev and QA automation.
 
-👷‍♀️ 🎨 My project portfolio is [**here**](https://niamhdoyle.dev/projects).
-
 👩‍🏫 I am a former highschool languages teacher, academic, and 💸 anti-money laundering compliance professional.
 
 📍 I am originally from Ireland 🇮🇪 but have been living in Estonia 🇪🇪 for many years.
 
-🌐 My public socials are linked from [**my homepage**](https://niamhdoyle.dev/).
-
-🎮 I am learning to design and develop video games using Godot, C#, Unity, and Blender.
+🎮 I am learning to design and develop video games using Godot, C#, Unity, and Blender. And additionally on the side a little bit of Android development.
 
 ## Skills
 
@@ -46,9 +42,7 @@ As well as Android development with Android Studio, Java, and Kotlin.
 
 🧪 ⚙️ In January this year, I graduated from a course on QA automation with Jest and Playwright, were we learned about unit testing, API testing, UI testing, continuous integration and more.
 
-👩‍💻 In summer 2024, I completed the [Full Stack Web Development Bootcamp](https://codeop.tech/coding-bootcamp/) at [CodeOp.tech](https://codeop.tech/), where we built both front-end projects with Vue.js and React.js and full stack projects with Express.js and MySQL.
-
-🕵️‍♀️ In 2024, I also completed the [Associate Data Analyst in SQL career track](https://www.datacamp.com/tracks/associate-data-analyst-in-sql) with DataCamp.
+👩‍💻 In 2024, I completed the [Full Stack Web Development Bootcamp](https://codeop.tech/coding-bootcamp/) at [CodeOp.tech](https://codeop.tech/).
 
 👩‍🎓 I have also earned certificates from Udemy for completing the following courses:
 
