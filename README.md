@@ -10,7 +10,9 @@
 
 📍 I am originally from Ireland 🇮🇪 but have been living in Estonia 🇪🇪 for many years.
 
-🎮 I am learning to design and develop video games using Godot, C#, Unity, and Blender. And additionally on the side a little bit of Android development.
+🎮 I am learning to design and develop video games using Godot, C#, Unity, and Blender.
+
+📱 I am also interested in Kotlin and Android development.
 
 ## Skills
 
