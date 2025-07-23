@@ -12,7 +12,7 @@
 
 🎮 I am learning to design and develop video games using Godot, C#, Unity, and Blender.
 
-📱 I am also interested in Kotlin and Android development.
+📱 I am learning Android native development with Kotlin.
 
 ## Skills
 
