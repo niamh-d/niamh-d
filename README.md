@@ -1,8 +1,8 @@
 # Hi there 👋 Salut! Tere! Moi!
 
-🙋‍♀️ My name is Niamh (pronounced 'nee-uv'). I am a web and game dev.
+🙋‍♀️ My name is Niamh (pronounced 'nee-uv'). I am a web developer who is learning game dev (Unity) and mobile dev (Android, Flutter).
 
-💼 I am currently looking for work as a **web developer**, **Android dev** or **technical project manager**. My CV is [**here**](https://drive.google.com/file/d/17_s-YbB9e9u17P7QWz5EEePzpQSgAvn0/view). Connect with me on [LinkedIn](https://www.linkedin.com/in/niamh-carolin-doyle/).
+💼 I am currently looking for work as a **web developer**, **mobile dev** or **technical project manager**. My CV is [**here**](https://drive.google.com/file/d/17_s-YbB9e9u17P7QWz5EEePzpQSgAvn0/view). Connect with me on [LinkedIn](https://www.linkedin.com/in/niamh-carolin-doyle/).
 
 👩‍💻 My software development experience includes full-stack web dev and QA automation.
 
@@ -36,9 +36,9 @@ Currently I am learning about game development with C#, Unity, and Blender.
 
 [![Learning](https://skillicons.dev/icons?i=cs,unity,blender&theme=light)](https://skillicons.dev)
 
-As well as Android development with Android Studio and Kotlin.
+As well as mobile development with Android, Kotlin, Flutter, and Dart.
 
-[![Learning](https://skillicons.dev/icons?i=androidstudio,kotlin&theme=light)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=androidstudio,kotlin,flutter,dart&theme=light)](https://skillicons.dev)
 
 ## Education and Training
 
