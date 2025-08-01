@@ -30,7 +30,7 @@ I am very comfortable with the following technologies and tools:
 
 ## Learning
 
-Currently I am learning about game development with C#, Unity, and Blender.
+Currently I am learning game development with C#, Unity, and Blender.
 
 [![Learning](https://skillicons.dev/icons?i=cs,unity,blender&theme=light)](https://skillicons.dev)
 
