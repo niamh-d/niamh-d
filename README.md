@@ -1,6 +1,8 @@
 # Hi there 👋 Salut! Tere! Moi!
 
-🙋‍♀️ My name is Niamh (pronounced 'nee-uv'). I am a web developer who is learning game dev (Unity) and mobile dev (Android, Flutter).
+🙋‍♀️ My name is Niamh (pronounced 'nee-uv').
+
+🌐 I am a web developer who is learning game dev (Unity) 🎮 and mobile dev (Android, Flutter) 📱.
 
 💼 I am currently looking for work as a **web developer**, **mobile dev** or **technical project manager**. My CV is [**here**](https://drive.google.com/file/d/17_s-YbB9e9u17P7QWz5EEePzpQSgAvn0/view). Connect with me on [LinkedIn](https://www.linkedin.com/in/niamh-carolin-doyle/).
 
@@ -9,10 +11,6 @@
 👩‍🏫 I am a former highschool languages teacher, academic, and 💸 anti-money laundering compliance professional.
 
 📍 I am originally from Ireland 🇮🇪 but have been living in Estonia 🇪🇪 for many years.
-
-🎮 I am learning to design and develop video games using Godot, C#, Unity, and Blender.
-
-📱 I am learning Android native development with Kotlin.
 
 ## Skills
 
