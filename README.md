@@ -2,11 +2,9 @@
 
 🙋‍♀️ My name is Niamh (pronounced 'nee-uv').
 
-🌐 I am a web developer who is learning game dev (Unity) 🎮 and mobile dev (Android, Flutter) 📱.
+👩‍💻 I am a software developer with skills in web dev, QA automation, Android 📱 and Godot 🎮
 
 💼 I am currently looking for work as a **web developer**, **mobile dev** or **technical project manager**. My CV is [**here**](https://drive.google.com/file/d/17_s-YbB9e9u17P7QWz5EEePzpQSgAvn0/view). Connect with me on [LinkedIn](https://www.linkedin.com/in/niamh-carolin-doyle/).
-
-👩‍💻 My software development experience includes full-stack web dev and QA automation.
 
 👩‍🏫 I am a former highschool languages teacher, academic, and 💸 anti-money laundering compliance professional.
 
@@ -20,6 +18,10 @@ I am very comfortable with the following technologies and tools:
 
 [![Skills](https://skillicons.dev/icons?i=javascript,typescript,react,tailwind&theme=light)](https://skillicons.dev)
 
+### Mobile dev
+
+[![Learning](https://skillicons.dev/icons?i=androidstudio,kotlin&theme=light)](https://skillicons.dev)
+
 ### Testing
 
 [![Skills](https://skillicons.dev/icons?i=jest,postman&theme=light)](https://skillicons.dev)
@@ -30,13 +32,13 @@ I am very comfortable with the following technologies and tools:
 
 ## Learning
 
-Currently I am learning game development with C#, Unity, and Blender.
+Currently I am learning C#, C++, Unity, and Blender.
 
-[![Learning](https://skillicons.dev/icons?i=cs,unity,blender&theme=light)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=cs,cpp,unity,blender&theme=light)](https://skillicons.dev)
 
-As well as mobile development with Android, Kotlin, Flutter, and Dart.
+As well as expanding my mobile dev toolbox to include Flutter and Dart.
 
-[![Learning](https://skillicons.dev/icons?i=androidstudio,kotlin,flutter,dart&theme=light)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=flutter,dart&theme=light)](https://skillicons.dev)
 
 ## Education and Training
 
@@ -46,6 +48,7 @@ As well as mobile development with Android, Kotlin, Flutter, and Dart.
 
 👩‍🎓 I have also earned certificates from Udemy for completing the following courses:
 
+- [Android App Development Bootcamp - Beginner to Pro](https://www.udemy.com/course/the-complete-android-developer-bootcamp)
 - [Learn how to create 3D games from start to finish in Godot engine 4 and GDScript!](https://www.udemy.com/course/complete-godot-3d)
 - [Learn 2D Game Development: Godot 4.3+ & C# from Scratch](https://www.udemy.com/course/learn-2d-game-development-godot-43-c-from-scratch/)
 - [JavaScript Unit Testing](https://www.udemy.com/course/javascript-unit-testing-the-practical-guide)
