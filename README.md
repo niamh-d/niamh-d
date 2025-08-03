@@ -16,7 +16,7 @@ I am very comfortable with the following technologies and tools:
 
 ### Web dev
 
-[![Skills](https://skillicons.dev/icons?i=javascript,typescript,react,tailwind&theme=light)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=javascript,typescript,react,next,tailwind&theme=light)](https://skillicons.dev)
 
 ### Mobile dev
 
@@ -32,7 +32,7 @@ I am very comfortable with the following technologies and tools:
 
 ## Learning
 
-Currently I am learning C#, C++, Unity, and Blender.
+Currently I am learning C#, C++, Unity, and Blender for gave development.
 
 [![Learning](https://skillicons.dev/icons?i=cs,cpp,unity,blender&theme=light)](https://skillicons.dev)
 
