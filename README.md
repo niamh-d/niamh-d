@@ -16,22 +16,22 @@ I am very comfortable with the following technologies and tools:
 
 ### Web dev
 
-[![Skills](https://skillicons.dev/icons?i=javascript,typescript,react,next,tailwind&theme=light)](https://skillicons.dev)
-JavaScript, TypeScript, React.js, Next.js, TailwindCSS
+[![Skills](https://skillicons.dev/icons?i=javascript,typescript,react,next,tailwind&theme=light)](https://skillicons.dev)\
+JavaScript, TypeScript, React, Next, Tailwind
 
 ### Mobile dev
 
-[![Learning](https://skillicons.dev/icons?i=androidstudio,kotlin&theme=light)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=androidstudio,kotlin&theme=light)](https://skillicons.dev)\
 Android, Kotlin
 
 ### Testing
 
-[![Skills](https://skillicons.dev/icons?i=jest,postman&theme=light)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=jest,postman&theme=light)](https://skillicons.dev)\
 Jest, Postman
 
 ### Game dev
 
-[![Skills](https://skillicons.dev/icons?i=godot,cs&theme=light)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=godot,cs&theme=light)](https://skillicons.dev)\
 Godot, C#
 
 ## Learning
