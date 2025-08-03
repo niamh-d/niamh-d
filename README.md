@@ -32,11 +32,11 @@ I am very comfortable with the following technologies and tools:
 
 ## Learning
 
-Currently I am learning C#, C++, Unity, and Blender for gave development.
+Currently I am learning C#, C++, Unity, and Blender for 2D and 3D game development.
 
 [![Learning](https://skillicons.dev/icons?i=cs,cpp,unity,blender&theme=light)](https://skillicons.dev)
 
-As well as expanding my mobile dev toolbox to include Flutter and Dart.
+As well as expanding my mobile dev toolbox to include cross-platorm Flutter and Dart.
 
 [![Learning](https://skillicons.dev/icons?i=flutter,dart&theme=light)](https://skillicons.dev)
 
