@@ -27,7 +27,7 @@ Android, Kotlin
 ### Testing
 
 [![Skills](https://skillicons.dev/icons?i=jest,postman&theme=light)](https://skillicons.dev)\
-Jest, Postman
+Jest, Postman, Playwright
 
 ### Game dev
 
