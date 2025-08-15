@@ -44,6 +44,10 @@ As well as expanding my mobile dev toolbox to include cross-platorm Flutter and 
 
 [![Learning](https://skillicons.dev/icons?i=flutter,dart&theme=light)](https://skillicons.dev)
 
+And upskilling in web dev by learning Emberjs, Elixir, and Phoenix.
+
+[![Learning](https://skillicons.dev/icons?i=ember,elixir&theme=light)](https://skillicons.dev)
+
 ## Education and Training
 
 🧪 ⚙️ In January this year, I graduated from a course on QA automation with Jest and Playwright, were we learned about unit testing, API testing, UI testing, continuous integration and more.
