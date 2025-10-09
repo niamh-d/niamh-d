@@ -44,9 +44,9 @@ As well as expanding my mobile dev toolbox to include cross-platorm Flutter and 
 
 [![Learning](https://skillicons.dev/icons?i=flutter,dart&theme=light)](https://skillicons.dev)
 
-And upskilling in web dev by learning Emberjs, Elixir, and Phoenix.
+And upskilling in web dev by learning Java, Spring, Emberjs, Elixir, and Phoenix.
 
-[![Learning](https://skillicons.dev/icons?i=ember,elixir&theme=light)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=java,spring,ember,elixir&theme=light)](https://skillicons.dev)
 
 ## Education and Training
 
