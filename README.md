@@ -50,7 +50,7 @@ And upskilling in web dev by learning Java, Spring, Emberjs, Elixir, and Phoenix
 
 ## Education and Training
 
-🧪 ⚙️ In January this year, I graduated from a course on QA automation with Jest and Playwright, were we learned about unit testing, API testing, UI testing, continuous integration and more.
+🧪 ⚙️ In the beginning of this year, I graduated from a course on QA automation with Jest and Playwright, where we learned about unit testing, API testing, UI testing, continuous integration and more.
 
 👩‍💻 In 2024, I completed the [Full Stack Web Development Bootcamp](https://codeop.tech/coding-bootcamp/) at [CodeOp.tech](https://codeop.tech/).
 
