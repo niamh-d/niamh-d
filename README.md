@@ -56,6 +56,7 @@ And upskilling in web dev by learning Java, Spring, Emberjs, Elixir, and Phoenix
 
 👩‍🎓 I have also earned certificates from Udemy for completing the following courses:
 
+- [Learn Spring Boot 4 by Examining 7+ Practical Applications](https://www.udemy.com/course/learn-spring-boot-by-examining-practical-applications)
 - [Android App Development Bootcamp - Beginner to Pro](https://www.udemy.com/course/the-complete-android-developer-bootcamp)
 - [Learn how to create 3D games from start to finish in Godot engine 4 and GDScript!](https://www.udemy.com/course/complete-godot-3d)
 - [Learn 2D Game Development: Godot 4.3+ & C# from Scratch](https://www.udemy.com/course/learn-2d-game-development-godot-43-c-from-scratch/)
