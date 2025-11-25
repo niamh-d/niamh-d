@@ -36,17 +36,17 @@ Godot, C#
 
 ## Learning
 
-Currently I am learning C++, Unity, and Blender for 2D and 3D game development.
+Currently I am upskilling in web dev by learning Java, Spring, and Angular.
 
-[![Learning](https://skillicons.dev/icons?i=cpp,unity,blender&theme=light)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=java,spring,angular&theme=light)](https://skillicons.dev)
 
 As well as expanding my mobile dev toolbox to include cross-platorm Flutter and Dart.
 
 [![Learning](https://skillicons.dev/icons?i=flutter,dart&theme=light)](https://skillicons.dev)
 
-And upskilling in web dev by learning Java, Spring, and Angular.
+And upskilling in game dev with C++, Unity, and Blender for 2D and 3D.
 
-[![Learning](https://skillicons.dev/icons?i=java,spring,angular&theme=light)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=cpp,unity,blender&theme=light)](https://skillicons.dev)
 
 ## Education and Training
 
