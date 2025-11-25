@@ -44,7 +44,7 @@ As well as expanding my mobile dev toolbox to include cross-platorm Flutter and 
 
 [![Learning](https://skillicons.dev/icons?i=flutter,dart&theme=light)](https://skillicons.dev)
 
-And upskilling in game dev with C++, Unity, and Blender for 2D and 3D.
+And upskilling in game dev with C++, Unity, and Blender.
 
 [![Learning](https://skillicons.dev/icons?i=cpp,unity,blender&theme=light)](https://skillicons.dev)
 
