@@ -36,9 +36,9 @@ Godot, C#
 
 ## Learning
 
-Currently I am upskilling in web dev by learning Java, Spring, and Angular.
+Currently I am upskilling in web dev by learning Java, Spring, Angular, and DOTNET.
 
-[![Learning](https://skillicons.dev/icons?i=java,spring,angular&theme=light)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=java,spring,angular,dotnet&theme=light)](https://skillicons.dev)
 
 As well as expanding my mobile dev toolbox to include cross-platorm Flutter and Dart.
 
