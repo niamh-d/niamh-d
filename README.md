@@ -2,7 +2,7 @@
 
 🙋‍♀️ My name is Niamh (pronounced 'nee-uv').
 
-👩‍💻 I am a software developer with skills in web dev, QA automation, Android 📱 and Godot 🎮
+👩‍💻 I am a software developer with skills in fullstack web dev, QA automation, and game dev with Godot and Unity.
 
 💼 I am currently looking for work as a **web developer**, **mobile dev** or **technical project manager**. My CV is [**here**](https://drive.google.com/file/d/17_s-YbB9e9u17P7QWz5EEePzpQSgAvn0/view). Connect with me on [LinkedIn](https://www.linkedin.com/in/niamh-carolin-doyle/).
 
