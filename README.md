@@ -51,6 +51,7 @@ And upskilling in game dev with Unity and Blender.
 
 👩‍🎓 I have also earned certificates from Udemy for completing the following courses:
 
+- [Build an app with ASPNET Core and Angular from scratch](https://www.udemy.com/course/build-an-app-with-aspnet-core-and-angular-from-scratch)
 - [Learn Spring Boot 4 by Examining 7+ Practical Applications](https://www.udemy.com/course/learn-spring-boot-by-examining-practical-applications)
 - [Android App Development Bootcamp - Beginner to Pro](https://www.udemy.com/course/the-complete-android-developer-bootcamp)
 - [Learn how to create 3D games from start to finish in Godot engine 4 and GDScript!](https://www.udemy.com/course/complete-godot-3d)
