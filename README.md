@@ -35,7 +35,7 @@ Currently I am upskilling in web dev by learning Java, Spring, and DOTNET.
 
 [![Learning](https://skillicons.dev/icons?i=java,spring,dotnet&theme=light)](https://skillicons.dev)
 
-As well as expanding my dvelopment toolbox to include mobile with Android and Kotlin, and cross-platorm Flutter and Dart.
+As well as expanding my development toolbox to include mobile with Android and Kotlin, and cross-platorm Flutter and Dart.
 
 [![Learning](https://skillicons.dev/icons?i=androidstudio,kotlin,flutter,dart&theme=light)](https://skillicons.dev)
 
@@ -45,9 +45,11 @@ And upskilling in game dev with Unity and Blender.
 
 ## Education and Training
 
-🧪 ⚙️ In the beginning of this year, I graduated from a course on QA automation with Jest and Playwright, where we learned about unit testing, API testing, UI testing, continuous integration and more.
+🏃‍♀️In January 2026, I took part and completed in kood/Võru selection sprint 19. 
 
-👩‍💻 In 2024, I completed the [Full Stack Web Development Bootcamp](https://codeop.tech/coding-bootcamp/) at [CodeOp.tech](https://codeop.tech/).
+🧪 ⚙️ In January 2025, I graduated from a course on QA automation with Jest and Playwright, where we learned about unit testing, API testing, UI testing, continuous integration and more.
+
+👩‍💻 In May 2024, I completed the [Full Stack Web Development Bootcamp](https://codeop.tech/coding-bootcamp/) at [CodeOp.tech](https://codeop.tech/).
 
 👩‍🎓 I have also earned certificates from Udemy for completing the following courses:
 
