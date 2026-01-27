@@ -45,7 +45,7 @@ And upskilling in game dev with Unity and Blender.
 
 ## Education and Training
 
-🏃‍♀️In January 2026, I took part and completed in kood/Võru selection sprint 19. 
+🏃‍♀️In January 2026, I took part in and completed kood/Võru selection sprint 19. 
 
 🧪 ⚙️ In January 2025, I graduated from a course on QA automation with Jest and Playwright, where we learned about unit testing, API testing, UI testing, continuous integration and more.
 
