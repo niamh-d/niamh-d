@@ -10,6 +10,8 @@
 
 📍 I am originally from Ireland 🇮🇪 but have been living in Estonia 🇪🇪 for many years.
 
+🤩 In January 2026, I successfully completed [//kood](https://kood.tech/)'s Java Selection Sprint 19 and was named by my peers as MVP of the sprint.
+
 ## Skills
 
 I am very comfortable with the following technologies and tools:
@@ -45,7 +47,7 @@ And upskilling in game dev with Unity and Blender.
 
 ## Education and Training
 
-🏃‍♀️In January 2026, I took part in and completed kood/Võru selection sprint 19. 
+🏃‍♀️In January 2026, I successfully completed [//kood](https://kood.tech/)'s Java Selection Sprint 19 at the Võru campus and was named by my peers as MVP of the sprint.
 
 🧪 ⚙️ In January 2025, I graduated from a course on QA automation with Jest and Playwright, where we learned about unit testing, API testing, UI testing, continuous integration and more.
 
