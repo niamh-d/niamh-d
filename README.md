@@ -14,32 +14,37 @@
 
 ## Skills
 
-I am very comfortable with the following technologies and tools:
+I am comfortable with the following technologies and tools:
+
+### Programming languages
+
+[![Skills](https://skillicons.dev/icons?i=javascript,typescript,cs,java,kotlin,dart&theme=light)](https://skillicons.dev)\
+JavaScript, TypeScript, C#, Java, Kotlin, Dart
 
 ### Web dev
 
-[![Skills](https://skillicons.dev/icons?i=javascript,typescript,react,angular,tailwind&theme=light)](https://skillicons.dev)\
-JavaScript, TypeScript, React, Angular, Tailwind
+[![Skills](https://skillicons.dev/icons?i=react,angular,tailwind&theme=light)](https://skillicons.dev)\
+React, Angular, Tailwind
 
 ### Testing
 
 [![Skills](https://skillicons.dev/icons?i=jest,postman&theme=light)](https://skillicons.dev)\
 Jest, Postman, Playwright
 
-### Game dev
+### Game engine
 
-[![Skills](https://skillicons.dev/icons?i=godot,cs&theme=light)](https://skillicons.dev)\
-Godot, C#
+[![Skills](https://skillicons.dev/icons?i=godot&theme=light)](https://skillicons.dev)\
+Godot
 
 ## Learning
 
-Currently I am upskilling in web dev by learning Java, Spring, and DOTNET.
+Currently I am upskilling in web dev by learning Spring Boot and DOTNET.
 
-[![Learning](https://skillicons.dev/icons?i=java,spring,dotnet&theme=light)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=spring,dotnet&theme=light)](https://skillicons.dev)
 
-As well as expanding my development toolbox to include mobile with Android and Kotlin, and cross-platorm Flutter and Dart.
+As well as expanding my development toolbox to include mobile with Android and cross-platorm Flutter.
 
-[![Learning](https://skillicons.dev/icons?i=androidstudio,kotlin,flutter,dart&theme=light)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=androidstudio,flutter&theme=light)](https://skillicons.dev)
 
 And upskilling in game dev with Unity and Blender.
 
