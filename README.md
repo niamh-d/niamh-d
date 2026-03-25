@@ -4,6 +4,8 @@
 
 👩‍💻 I am a software developer with skills in fullstack web dev, QA automation, and game dev with Godot and Unity.
 
+👩‍🎓 Currently studying fullstack web development with [//kood](https://kood.tech/).
+
 💼 I am currently looking for work as a **web developer**, **mobile dev** or **technical project manager**. My CV is [**here**](https://drive.google.com/file/d/17_s-YbB9e9u17P7QWz5EEePzpQSgAvn0/view). Connect with me on [LinkedIn](https://www.linkedin.com/in/niamh-carolin-doyle/).
 
 👩‍🏫 I am a former highschool languages teacher, academic, and 💸 anti-money laundering compliance professional.
