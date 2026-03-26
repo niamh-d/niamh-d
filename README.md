@@ -1,5 +1,7 @@
 # Hi there 👋 Salut! Tere! Moi!
 
+*"a fun person to have around. tl;dr version: a cool kid with tons of street cred, respect"* – Fellow //kood Sprint 19 sprinter, Jan 2026
+
 🙋‍♀️ My name is Niamh (pronounced 'nee-uv').
 
 👩‍💻 I am a software developer with skills in fullstack web dev, QA automation, and game dev with Godot and Unity.
