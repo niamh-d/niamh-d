@@ -6,7 +6,7 @@
 
 👩‍💻 I am a software developer with skills in fullstack web dev, QA automation, and game dev with Godot and Unity.
 
-👩‍🎓 Currently studying fullstack web development with [//kood](https://kood.tech/).
+👩‍🎓 Currently studying fullstack web development at [//kood](https://kood.tech/).
 
 💼 I am currently looking for work as a **web developer**, **mobile dev** or **technical project manager**. My CV is [**here**](https://drive.google.com/file/d/17_s-YbB9e9u17P7QWz5EEePzpQSgAvn0/view). Connect with me on [LinkedIn](https://www.linkedin.com/in/niamh-carolin-doyle/).
 
@@ -56,7 +56,9 @@ And upskilling in game dev with Unity and Blender.
 
 ## Education and Training
 
-🏃‍♀️In January 2026, I successfully completed [//kood](https://kood.tech/)'s Java Selection Sprint 19 at the Võru campus and was named by my peers as MVP of the sprint.
+👩‍🎓 Currently studying fullstack web development at [//kood](https://kood.tech/).
+
+🏃‍♀️In January 2026, I successfully completed //kood's Java Selection Sprint 19 at the Võru campus and was named by my peers as MVP of the sprint.
 
 🧪 ⚙️ In January 2025, I graduated from a course on QA automation with Jest and Playwright, where we learned about unit testing, API testing, UI testing, continuous integration and more.
 
