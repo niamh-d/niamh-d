@@ -22,13 +22,13 @@ I am comfortable with the following technologies and tools:
 
 ### Programming languages
 
-[![Skills](https://skillicons.dev/icons?i=javascript,typescript,cs,java,kotlin,dart&theme=light)](https://skillicons.dev)\
-JavaScript, TypeScript, C#, Java, Kotlin, Dart
+[![Skills](https://skillicons.dev/icons?i=javascript,typescript,cs,java,kotlin,dart,godot&theme=light)](https://skillicons.dev)\
+JavaScript, TypeScript, C#, Java, Kotlin, Dart, GD Script
 
 ### Web dev
 
-[![Skills](https://skillicons.dev/icons?i=react,angular,tailwind&theme=light)](https://skillicons.dev)\
-React, Angular, Tailwind
+[![Skills](https://skillicons.dev/icons?i=react,next,angular,tailwind&theme=light)](https://skillicons.dev)\
+React, Next, Angular, Tailwind
 
 ### Testing
 
