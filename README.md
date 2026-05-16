@@ -22,13 +22,13 @@ I am comfortable with the following technologies and tools:
 
 ### Programming languages
 
-[![Skills](https://skillicons.dev/icons?i=javascript,typescript,cs,java,kotlin,dart,godot&theme=light)](https://skillicons.dev)\
-JavaScript, TypeScript, C#, Java, Kotlin, Dart, GD Script
+[![Skills](https://skillicons.dev/icons?i=javascript,typescript,cs,java,godot&theme=light)](https://skillicons.dev)\
+JavaScript, TypeScript, C#, Java, GD Script
 
 ### Web dev
 
-[![Skills](https://skillicons.dev/icons?i=react,next,angular,tailwind&theme=light)](https://skillicons.dev)\
-React, Next, Angular, Tailwind
+[![Skills](https://skillicons.dev/icons?i=react,next,angular,tailwind,spring&theme=light)](https://skillicons.dev)\
+React, Next, Angular, Tailwind, Spring Boot
 
 ### Testing
 
@@ -42,15 +42,11 @@ Godot
 
 ## Learning
 
-Currently I am upskilling in web dev by learning Spring Boot and DOTNET.
+Currently I am acquiring more low-level skills by learning C++, C and Bash
 
-[![Learning](https://skillicons.dev/icons?i=spring,dotnet&theme=light)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=cpp,c,bash&theme=light)](https://skillicons.dev)
 
-As well as expanding my development toolbox to include mobile with Android and cross-platorm Flutter.
-
-[![Learning](https://skillicons.dev/icons?i=androidstudio,flutter&theme=light)](https://skillicons.dev)
-
-And upskilling in game dev with Unity and Blender.
+And upskilling in game dev by learning Unity and Blender.
 
 [![Learning](https://skillicons.dev/icons?i=unity,blender&theme=light)](https://skillicons.dev)
 
